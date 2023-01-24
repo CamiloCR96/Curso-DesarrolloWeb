@@ -1,0 +1,32 @@
+#carnes{
+    color: red;
+    font-size: 20px;
+}
+
+#frutas{
+    color: orange;
+    font-size: 20px;
+}
+
+#verduras{
+    color: green;
+    font-size: 20px;
+}
+/*Titulo con variacion de colores*/
+#color1{
+    color:red
+ }
+
+ #color2{
+    color:orange;
+ }
+ #color3{
+    color:green;
+    
+ }
+
+ /*tamaño de las imagenes*/
+
+ figure .img-carnes{
+     30px;
+ }
